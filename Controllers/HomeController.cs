@@ -14,7 +14,7 @@ namespace pipelines_dotnet_core_docker.Controllers
         {
             return View();
         }
-
+//test request
         public IActionResult Privacy()
         {
             return View();
